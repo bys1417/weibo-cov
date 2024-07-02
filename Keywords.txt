@@ -1,9 +1,10 @@
-#Epidemic#
-#COVID-19#
-#COVID-19 Pneumonia#
-#Noval Coronavirus#
-#Novel Coronavirus Infection Pneumonia#
-#Coronavirus#
-#Positive#
-#Fever#
-#Cough#
+中文  英文
+#疫情#    #Epidemic#
+#COVID-19#  #COVID-19#
+#新冠肺炎#  #COVID-19 Pneumonia#
+#新型冠状病毒#    #Noval Coronavirus#
+#新型冠状病毒感染肺炎#    #Novel Coronavirus Infection Pneumonia#
+#新冠#    #Coronavirus#
+#阳了#    #Positive#
+#发烧#    #Fever#
+#咳嗽#    #Cough#
